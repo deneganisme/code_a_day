@@ -14,7 +14,6 @@ def main():
             raise e
         except KeyboardInterrupt:
             print("\n👋")
-        finally:
             exit()
 
 
